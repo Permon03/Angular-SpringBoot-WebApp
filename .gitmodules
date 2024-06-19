@@ -1,0 +1,3 @@
+[submodule "SpringBoot-REST-API-HousesWebApp"]
+	path = SpringBoot-REST-API-HousesWebApp
+	url = https://github.com/Permon03/SpringBoot-REST-API-HousesWebApp.git
